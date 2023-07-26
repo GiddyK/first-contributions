@@ -5581,4 +5581,4 @@ Aadi Deshmukh
 -   [MrDiamond007] (https://github.com/MrDiamond007)
     [Dan Calabia] (https://github.com/DandarandanEC)
     [Carlos Grajeda] (https://github.com/grajedacarlos)
-    [Gideon Koech]   (https://github.com/giddyk)
+ -  [Gideon Koech]   (https://github.com/giddyk)
